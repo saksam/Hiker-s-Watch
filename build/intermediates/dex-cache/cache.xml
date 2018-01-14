@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projects\AndroidStudioProjects\HikersWatch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\AndroidStudioProjects\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_649b188036d0e9caf0be288fb66aa1148b5fb348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\AndroidStudioProjects\HikersWatch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f7a3ef059077705213d3b2becc4ba0a6a26f2a5">
+        <dex dex="D:\Projects\AndroidStudioProjects\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ad88f9229d09c1e39cc16a883e0e75b730b5441f\classes.dex" />
+    </item>
+
+</items>
